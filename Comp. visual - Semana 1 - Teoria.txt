@@ -1,13 +1,9 @@
 ﻿Semana 1: Online - Teoria
 
-
-
-
 NOME: Heitor Ce Sun Lin                
 TIA: 31930451
 
 
 Qual é a sua ideia de Computação Visual?
-
 
 A princípio eu a palavra `visual` me leva a pensar na palavra visão e em tudo que conseguimos enxergar, em um um computador, algo visual é tudo que enxergamos nele,sendo assim computação visual me leva a pensar que sejam cálculos e técnicas para produzir tudo aquilo que pode ser enxergado dentro de um computador.
