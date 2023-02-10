@@ -3,11 +3,11 @@
 NOME: Heitor Ce Sun Lin                
 TIA: 31930451
 
-NOME:
-TIA:
+NOME: Lucca Dias Bartholomei 
+TIA: 31910017
 
-NOME:
-TIA:
+NOME: Gustavo de Araujo Ramos 
+TIA: 32088531
 
 Qual é a sua ideia de Computação Visual?
 
