@@ -14,3 +14,8 @@ Qual é a sua ideia de Computação Visual?
 A princípio a palavra 'visual' me leva a pensar na palavra visão e em tudo que conseguimos enxergar, 
 em um um computador, algo visual é tudo que enxergamos nele,sendo assim computação visual me leva a pensar que 
 sejam cálculos e técnicas para produzir tudo aquilo que pode ser enxergado dentro de um computador. (Heitor Ce Sun Lin)
+
+
+Quando falamos de computação visual, o que me veio na mente foi a ideia de imagem e seu estudo profundo, abordando tudo 
+que há por trás do que enxergamos na tela de um computador, desde teoremas e conceitos, até as estruturas e modelos utilizados
+na formação das imagens e vídeos a partir do uso de recursos computacionais. (Lucca Dias Bartholomei)
