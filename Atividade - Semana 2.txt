@@ -2,4 +2,4 @@ Computação Visual - Aplicações
 
 Processamento de Imagens: processamento e análise de imagens biomédicas (Lucca Dias Bartholomei)
 
-
+Para iniciarmos essa subárea, é importante apresentar o que é o processamento de imagens. Tal processamento se trata do conjunto de técnicas e métodos computacionais para tratamento e manipulação de imagens (dados), transformando e melhorando essas imagens a fim de trazer a tona determinadas características, ajudar na tomada de decisões, realizar classificações, entre outros, dependendo da necessidade.
