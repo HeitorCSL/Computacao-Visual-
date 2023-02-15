@@ -6,5 +6,12 @@ Para iniciarmos essa subárea, é importante apresentar o que é o processamento
 computacionais para tratamento e manipulação de imagens (dados), transformando e melhorando essas imagens a fim de trazer a tona determinadas características, 
 ajudar na tomada de decisões, realizar classificações, entre outros, dependendo da necessidade.
 
+Uma das aplicações do processamento de imagens engloba uma área muito importante: medicina. Muitos dos diagnósticos atualmente conseguem ter uma grande
+precisão e consequentemente um tratamento mais efetivo por conta da aplicação dos conceitos e técnicas de processamento de imagens. A partir da obtenção de imagens do corpo do paciente, é possível conseguir um nível de detalhamento e clareza que premitem uma melhor análise do problema e uma melhor tomada de
+decisão, o que pode muitas vezes resultar em uma vida salva.
+
+
+
+
 
 Processamento gráfico: (Heitor Ce Sun Lin)
