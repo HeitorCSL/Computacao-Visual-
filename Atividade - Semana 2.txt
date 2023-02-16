@@ -22,8 +22,9 @@ corporais.
 
 O processamento de imagens biomédicas pode ser utilizado em diversas aplicações, como detecção e diagnóstico de doenças, planejamento cirúrgico, análise de
 imagens para monitorar a evolução de doenças e avaliação da eficácia de tratamentos. Algumas das técnicas usadas nessa análise incluem processamento de imagem
-digital, análise de textura, segmentação de imagem, reconhecimento de padrões e aprendizado de máquina. Além disso, alguns dos principais parâmetros utilizados e trabalhados nessas imagens são: resolução espacial, relacionada à nitidez de uma imagem; resolução de contraste, relacionada à intensidade de diferentes características; resolução temporal, relacionada ao tempo de criação de uma imagem.
+digital, análise de textura, segmentação de imagem, reconhecimento de padrões e aprendizado de máquina. Além disso, alguns dos principais parâmetros utilizados
+e trabalhados nessas imagens são: resolução espacial, relacionada à nitidez de uma imagem; resolução de contraste, relacionada à intensidade de diferentes
+características; resolução temporal, relacionada ao tempo de criação de uma imagem.
 
-chat gpt
 
 Processamento gráfico: (Heitor Ce Sun Lin)
