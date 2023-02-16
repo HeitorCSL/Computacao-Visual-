@@ -2,13 +2,19 @@ Computação Visual - Aplicações
 
 Processamento de Imagens: processamento e análise de imagens biomédicas (Lucca Dias Bartholomei)
 
-Para iniciarmos essa subárea, é importante apresentar o que é o processamento de imagens. Tal processamento se trata do conjunto de técnicas e métodos
-computacionais para tratamento e manipulação de imagens (dados), transformando e melhorando essas imagens a fim de trazer a tona determinadas características, 
-ajudar na tomada de decisões, realizar classificações, entre outros, dependendo da necessidade.
+Processamento de imagem é o conjunto de técnicas computacionais utilizadas para modificar, analisar, melhorar, ou extrair informações de uma imagem digital,
+envolvendo a aplicação de algoritmos e técnicas matemáticas para transformar imagens em dados processáveis por um computador.
+As imagens digitais podem ser obtidas a partir de diversos tipos de fontes, tais como câmeras, scanners, satélites, entre outros, podendo ter formatos variados,
+como por exemplo: JPEG, PNG, BMP, TIFF, e outros.
 
-Uma das aplicações do processamento de imagens engloba uma área muito importante: medicina. Muitos dos diagnósticos atualmente conseguem ter uma grande
-precisão e consequentemente um tratamento mais efetivo por conta da aplicação dos conceitos e técnicas de processamento de imagens. A partir da obtenção de imagens do corpo do paciente, é possível conseguir um nível de detalhamento e clareza que premitem uma melhor análise do problema e uma melhor tomada de
-decisão, o que pode muitas vezes resultar em uma vida salva.
+Esse processamento pode ser utilizado em diversas áreas, como medicina, engenharia, ciência, indústria, etc., com algumas de suas aplicações comuns sendo:
+melhoramento de imagens para obter maior qualidade visual, detecção de bordas e contornos, segmentação de objetos em uma imagem, reconhecimento de padrões e
+classificação de objetos, entre outros.
+
+Uma das aplicações do processamento de imagens, que será o foco desse texto, engloba uma área muito importante: medicina. Muitos dos diagnósticos atualmente 
+conseguem ter uma grande precisão e consequentemente um tratamento mais efetivo por conta da aplicação dos conceitos e técnicas de processamento de imagens. 
+A partir da obtenção de imagens do corpo do paciente, é possível conseguir um nível de detalhamento e clareza que premitem uma melhor análise do problema e 
+uma melhor tomada de decisão, o que pode muitas vezes resultar em uma vida salva.
 
 Dentre os procedimentos mais comuns onde é aplicado o processamento de imagens, podemos citar: tomografia; readiografia; ultrassonografia; ressonância 
 magnética, entre outros.
