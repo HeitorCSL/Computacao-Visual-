@@ -29,7 +29,7 @@ características; resolução temporal, relacionada ao tempo de criação de uma
 
 Computação gráfica: (Heitor Ce Sun Lin)
 
-A computação gráfica se dedica ao estudo e desenvolvimento de técnicas e algoritmos para a geração de imagens através do computador tendo como objetivo criar uma interface humana para visualização de dados, em outras palavras uma ferramenta para gerar e manipular dados de uma imagem.
+A computação gráfica se dedica ao estudo e desenvolvimento de técnicas e algoritmos para a geração de imagens através do computador tendo como objetivo criar uma interface humana para visualização de dados, em outras palavras uma ferramenta para gerar e manipular dados de uma imagem, sendo atualmente uma tecnologia essencial em fotografia digital, filmes, videogames, arte digital e computadores,etc.
 
 Exemplo de áreas de estudos que utilizam a aplicação da computação gráfica: Cartografia, tipografia, arquitetura, jogos, filmes, medicina, arte, simulação e modelagem, etc.
 
