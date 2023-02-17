@@ -27,4 +27,16 @@ e trabalhados nessas imagens são: resolução espacial, relacionada à nitidez 
 características; resolução temporal, relacionada ao tempo de criação de uma imagem.
 
 
-Processamento gráfico: (Heitor Ce Sun Lin)
+Computação gráfica: (Heitor Ce Sun Lin)
+
+A computação gráfica se dedica ao estudo e desenvolvimento de técnicas e algoritmos para a geração de imagens através do computador tendo como objetivo criar uma interface humana para visualização de dados, em outras palavras uma ferramenta para gerar e manipular dados de uma imagem.
+
+Exemplo de áreas de estudos que utilizam a aplicação da computação gráfica: Cartografia, tipografia, arquitetura, jogos, filmes, medicina, arte, simulação e modelagem, etc.
+
+Exemplo de conceitos e princípios na computação gráfica: Pixel, modelagem 3d, renderização, gráfico, etc.
+
+Referências: https://www.tutorialspoint.com/computer_graphics/computer_graphics_quick_guide.htm
+https://en.wikipedia.org/wiki/Computer_graphics
+http://enbdev.com/
+
+Motivo da escolher esta aplicação: Não tinha em mente qual aplicação escolher, a princípio pensei em processamento de imagens porque há um jogo(Skyrim) em que é possível fazer diversas modificações nele, e uma delas talvez envolva em melhorar drasticamente a qualidade visual/gráfica do jogo, essa modificação que envolve melhorar o gráfico do jogo utiliza um software chamado de ENB(incluído nas referências) e nele acredito que utilize tanto ferramentas da computação gráfica como processamento de imagens, como o Lucca Dias Bartholomei teve preferencia por Processamento de imagens, acabei optando por computação gráfica, que possivelmente o softawre ENB seja motivo plausível para aplicação que escolhi.
