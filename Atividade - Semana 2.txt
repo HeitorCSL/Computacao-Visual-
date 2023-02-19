@@ -4,8 +4,8 @@ Processamento de Imagens: processamento e análise de imagens biomédicas (Lucca
 
 Processamento de imagem é o conjunto de técnicas computacionais utilizadas para modificar, analisar, melhorar, ou extrair informações de uma imagem digital,
 envolvendo a aplicação de algoritmos e técnicas matemáticas para transformar imagens em dados processáveis por um computador.
-As imagens digitais podem ser obtidas a partir de diversos tipos de fontes, tais como câmeras, scanners, satélites, entre outros, podendo ter formatos variados,
-como por exemplo: JPEG, PNG, BMP, TIFF, e outros.
+As imagens digitais podem ser obtidas a partir de diversos tipos de fontes, tais como câmeras, scanners, satélites, entre outros, podendo ter formatos
+variados, como por exemplo: JPEG, PNG, BMP, TIFF, e outros.
 
 Esse processamento pode ser utilizado em diversas áreas, como medicina, engenharia, ciência, indústria, etc., com algumas de suas aplicações comuns sendo:
 melhoramento de imagens para obter maior qualidade visual, detecção de bordas e contornos, segmentação de objetos em uma imagem, reconhecimento de padrões e
@@ -17,19 +17,30 @@ A partir da obtenção de imagens do corpo do paciente, é possível conseguir u
 uma melhor tomada de decisão, o que pode muitas vezes resultar em uma vida salva.
 
 As imagens biomédicas incluem imagens obtidas por exames como tomografia computadorizada (CT), ressonância magnética (MRI), ultrassom, radiografia, entre
-outros. Essas imagens são usadas por médicos e especialistas em saúde para visualizar o interior do corpo humano e examinar tecidos, órgãos e outras estruturas
-corporais.
+outros. Essas imagens são usadas por médicos e especialistas em saúde para visualizar o interior do corpo humano e examinar tecidos, órgãos e outras
+estruturas corporais.
 
 O processamento de imagens biomédicas pode ser utilizado em diversas aplicações, como detecção e diagnóstico de doenças, planejamento cirúrgico, análise de
-imagens para monitorar a evolução de doenças e avaliação da eficácia de tratamentos. Algumas das técnicas usadas nessa análise incluem processamento de imagem
-digital, análise de textura, segmentação de imagem, reconhecimento de padrões e aprendizado de máquina. Além disso, alguns dos principais parâmetros utilizados
-e trabalhados nessas imagens são: resolução espacial, relacionada à nitidez de uma imagem; resolução de contraste, relacionada à intensidade de diferentes
-características; resolução temporal, relacionada ao tempo de criação de uma imagem.
+imagens para monitorar a evolução de doenças e avaliação da eficácia de tratamentos. Algumas das técnicas usadas nessa análise incluem processamento de
+imagem digital, análise de textura, segmentação de imagem, reconhecimento de padrões e aprendizado de máquina. Além disso, alguns dos principais parâmetros
+utilizados e trabalhados nessas imagens são: resolução espacial, relacionada à nitidez de uma imagem; resolução de contraste, relacionada à intensidade de
+diferentes características; resolução temporal, relacionada ao tempo de criação de uma imagem.
 
+Motivo: Escolhi essa aplicação de processamento de imagens por se tratar de uma área de fundamental importância na vida das pessoas, e que cada vez mais
+é difundida e incorporada no cotidiano. Através dessa aplicação da computação visual, é possível melhorar o atendimento médico e, por consequência, melhorar
+a qualidade de vida das pessoas, fator muito importante em uma sociedade que busca uma evolução no tratamento da vida humana.
+
+Referências: https://pt.wikipedia.org/wiki/Imagiologia_m%C3%A9dica
+             https://certi.org.br/blog/processamento-de-sinais-e-imagens-biomedicos/
+             https://adenilsongiovanini.com.br/blog/processamento-digital-de-imagens/
+             https://pt.slideshare.net/diesousil/processamento-de-imagem
+             http://www.lcad.icmc.usp.br/~jbatista/procimg/2016/apres.pdf
+ 
 
 Computação gráfica: (Heitor Ce Sun Lin)
 
-A computação gráfica se dedica ao estudo e desenvolvimento de técnicas e algoritmos para a geração de imagens através do computador tendo como objetivo criar uma interface humana para visualização de dados, 
+A computação gráfica se dedica ao estudo e desenvolvimento de técnicas e algoritmos para a geração de imagens através do computador tendo como objetivo criar
+uma interface humana para visualização de dados, 
 em outras palavras uma ferramenta para gerar e manipular dados de uma imagem, 
 sendo atualmente uma tecnologia essencial em fotografia digital, filmes, videogames, arte digital e computadores,etc.
 
@@ -43,6 +54,8 @@ Referências: https://www.tutorialspoint.com/computer_graphics/computer_graphics
 https://en.wikipedia.org/wiki/Computer_graphics
 http://enbdev.com/
 
-Motivo da escolher esta aplicação: Não tinha em mente qual aplicação escolher, a princípio pensei em processamento de imagens porque há um jogo(Skyrim) em que é possível fazer diversas modificações nele, e uma delas 
-envolve em melhorar drasticamente a qualidade visual/gráfica do jogo, essa modificação que envolve melhorar o gráfico do jogo utiliza um software chamado de ENB(incluído nas referências) e nele acredito que utilize tanto ferramentas da computação gráfica como processamento de imagens, 
-como o Lucca Dias Bartholomei teve preferencia por Processamento de imagens, acabei optando por computação gráfica, que possivelmente o softawre ENB seja motivo plausível para aplicação que escolhi.
+Motivo da escolher esta aplicação: Não tinha em mente qual aplicação escolher, a princípio pensei em processamento de imagens porque há um jogo(Skyrim) em
+que é possível fazer diversas modificações nele, e uma delas envolve em melhorar drasticamente a qualidade visual/gráfica do jogo, essa modificação que
+envolve melhorar o gráfico do jogo utiliza um software chamado de ENB(incluído nas referências) e nele acredito que utilize tanto ferramentas da computação
+gráfica como processamento de imagens, como o Lucca Dias Bartholomei teve preferencia por Processamento de imagens, acabei optando por computação gráfica,
+que possivelmente o softawre ENB seja motivo plausível para aplicação que escolhi.
