@@ -1,5 +1,10 @@
 Computação Visual - Aplicações 
 
+NOME: Lucca Dias Bartholomei 
+TIA: 31910017
+NOME: Heitor Ce Sun Lin                
+TIA: 31930451
+
 Processamento de Imagens: processamento e análise de imagens biomédicas (Lucca Dias Bartholomei)
 
 Processamento de imagem é o conjunto de técnicas computacionais utilizadas para modificar, analisar, melhorar, ou extrair informações de uma imagem digital,
@@ -51,8 +56,8 @@ Exemplo de conceitos e princípios na computação gráfica:
 Pixel, modelagem 3d, renderização, gráfico, etc.
 
 Referências: https://www.tutorialspoint.com/computer_graphics/computer_graphics_quick_guide.htm
-https://en.wikipedia.org/wiki/Computer_graphics
-http://enbdev.com/
+             https://en.wikipedia.org/wiki/Computer_graphics
+             http://enbdev.com/
 
 Motivo da escolher esta aplicação: Não tinha em mente qual aplicação escolher, a princípio pensei em processamento de imagens porque há um jogo(Skyrim) em
 que é possível fazer diversas modificações nele, e uma delas envolve em melhorar drasticamente a qualidade visual/gráfica do jogo, essa modificação que
