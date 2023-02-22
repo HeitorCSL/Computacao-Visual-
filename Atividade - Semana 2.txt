@@ -73,8 +73,14 @@ Visão Computacional baseia-se na aquisição de imagens ou vídeos que são pro
 podem ser extraídas características muito úteis para diversas aplicações, como, por exemplo: classificação de objetos, leitura de textos, entre outras.
 Algumas características básicas que poderiam ser extraídas seriam, por exemplo, a cor ou o contorno dos objetos na imagem analisada.
 
-Dentro do que achei pareceu mais interessante falar sobre a aplicação de visão computacional em Defect Detection. Uma das técnicas com melhores resultados e mais utilizada em aplicações de Defect Detection em combinação com visão computacional, é o Deep Learning. Essa técnica é um tipo de Inteligência Artificial baseada no uso de Redes Neurais Profundas, essas redes são treinadas com imagens previamente tiradas, que devem ser rotuladas para indicar o que cada imagem contém ou quais características nos interessa analisar. Com essas imagens, a rede aprende a extrair as características ou informações de interesse da aplicação.
+Dentro do que achei pareceu mais interessante falar sobre a aplicação de visão computacional em Defect Detection. Uma das técnicas com melhores
+resultados e mais utilizada em aplicações de Defect Detection em combinação com visão computacional, é o Deep Learning. Essa técnica é um tipo
+de Inteligência Artificial baseada no uso de Redes Neurais Profundas, essas redes são treinadas com imagens previamente tiradas, que devem ser
+rotuladas para indicar o que cada imagem contém ou quais características nos interessa analisar. Com essas imagens, a rede aprende a extrair
+as características ou informações de interesse da aplicação.
 
-Motivo: Escolhi essa aplicação pois a maioria dos resultados em aplicações para visão computacional são em reconhecimento de problemas ou padrões estranhos ao que se busca observar que visa extrair informações úteis a partir de imagens dadas. Assim na similaridade das opções, Defect Detection pareceu melhor.
+Motivo: Escolhi essa aplicação pois a maioria dos resultados em aplicações para visão computacional são em reconhecimento de problemas
+ou padrões estranhos ao que se busca observar que visa extrair informações úteis a partir de imagens dadas. Assim na similaridade das opções, 
+Defect Detection pareceu melhor.
 
 Referência: https://www.atriainnovation.com/en/5-detection-application-with-computer-vision/
