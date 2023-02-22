@@ -4,6 +4,8 @@ NOME: Lucca Dias Bartholomei
 TIA: 31910017
 NOME: Heitor Ce Sun Lin                
 TIA: 31930451
+NOME: Gustavo de Araujo Ramos Rodrigues
+TIA: 32088531
 
 Processamento de Imagens: processamento e análise de imagens biomédicas (Lucca Dias Bartholomei)
 
@@ -64,3 +66,15 @@ que é possível fazer diversas modificações nele, e uma delas envolve em melh
 envolve melhorar o gráfico do jogo utiliza um software chamado de ENB(incluído nas referências) e nele acredito que utilize tanto ferramentas da computação
 gráfica como processamento de imagens, como o Lucca Dias Bartholomei teve preferencia por Processamento de imagens, acabei optando por computação gráfica,
 que possivelmente o softawre ENB seja motivo plausível para aplicação que escolhi.
+
+Visão Computacional: (Gustavo de Araujo Ramos Rodrigues)
+
+Visão Computacional baseia-se na aquisição de imagens ou vídeos que são processados num computador. Por meio desse processamento,
+podem ser extraídas características muito úteis para diversas aplicações, como, por exemplo: classificação de objetos, leitura de textos, entre outras.
+Algumas características básicas que poderiam ser extraídas seriam, por exemplo, a cor ou o contorno dos objetos na imagem analisada.
+
+Dentro do que achei pareceu mais interessante falar sobre a aplicação de visão computacional em Defect Detection. Uma das técnicas com melhores resultados e mais utilizada em aplicações de Defect Detection em combinação com visão computacional, é o Deep Learning. Essa técnica é um tipo de Inteligência Artificial baseada no uso de Redes Neurais Profundas, essas redes são treinadas com imagens previamente tiradas, que devem ser rotuladas para indicar o que cada imagem contém ou quais características nos interessa analisar. Com essas imagens, a rede aprende a extrair as características ou informações de interesse da aplicação.
+
+Motivo: Escolhi essa aplicação pois a maioria dos resultados em aplicações para visão computacional são em reconhecimento de problemas ou padrões estranhos ao que se busca observar que visa extrair informações úteis a partir de imagens dadas. Assim na similaridade das opções, Defect Detection pareceu melhor.
+
+Referência: https://www.atriainnovation.com/en/5-detection-application-with-computer-vision/
