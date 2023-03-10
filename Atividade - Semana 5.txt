@@ -1,0 +1,1 @@
+Filtro de suavização (Blur) para resolução de problemas
