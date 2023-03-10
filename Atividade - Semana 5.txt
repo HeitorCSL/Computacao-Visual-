@@ -1,1 +1,13 @@
+COMPUTACAO VISUAL - Semana 5 - Teoria
+
+NOME: Lucca Dias Bartholomei 
+TIA: 31910017
+
+NOME: Heitor Ce Sun Lin
+TIA: 31930451
+
+NOME: Gustavo de Araujo Ramos 
+TIA: 32088531
+
+
 Filtro de suavização (Blur) para resolução de problemas
