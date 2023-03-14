@@ -12,8 +12,8 @@ TIA: 32088531
 
 Filtro de suavização (Blur) para resolução de problemas - Aliasing nos jogos eletrônicos
 
-Uma área que se tem como ferramenta essencial da computação gráfica é a de jogos, onde se exigem uma boa parte do hardwares para 
-criação e visualização de imagens, algumas limitações existem quanto à essa ferramenta de processamento gráfico na área de jogos em representar quantidade 
+Uma área que se tem como ferramenta essencial da computação gráfica é a de jogos, onde se exige uma boa parte dos hardwares para 
+criação e visualização de imagens. Algumas limitações existem quanto à essa ferramenta de processamento gráfico na área de jogos em representar quantidade 
 de cores e pixels de uma imagem processada, uma dessas limitações são os efeitos serrilhados que podem ocorrer nas cenas/imagens, devido a 
 presença de aliasing(que são comuns na maioria dos jogos), o aliasing age como redução na qualidade de uma imagem(má renderização, otimização) amostrada 
 se comparada com a imagem que deveria trazer originalmente, o presente artigo da pesquisa traz uma ánalise do problema de serrilhagem, motivos de sua
@@ -39,4 +39,14 @@ a detecção de serrilhados é usado a técnica MSAA. É considerado a melhor t�
 e ao mesmo tempo não borra demasiadamente a imagem e o custo benefício é o melhor dentre as técnicas apresentadas anteriormente. 
 
 Como solução para o problema iremos utilizar o SMAA pois esta combinação entre pré e pós processamento juntamente 
-ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.  
+ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.
+
+Como se pode perceber, o uso do filtro de suavização trás uma solução aceitável para o problema, uma vez que realiza a adaptação
+da imagem para algo mais similar com a realidade, criando um efeito para o olho humano baseado na impressão da visualização das
+linhas e bordas como algo "perfeito".
+
+Claro que não é possível resolver por completo o problema do aliasing, pelas limitações físicas impostas, porém, com o uso das técnicas 
+de FXAA e SMAA, mesmo com resultados inferiores se comparados à técnicas de pré-processamento, conseguimos obter uma solução que muitas 
+vezes se torna suficiente para se alcaçar o objetivo, com a vantegem de ser mais barato, já que essas técnicas demandam um poder de 
+processamento gráfico bem menor.
+
