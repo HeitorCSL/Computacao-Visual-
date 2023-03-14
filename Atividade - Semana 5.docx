@@ -21,18 +21,22 @@ ocorrência e apresentação de soluções que possam solucionar este problema.
 
 Como solução para o problema iremos utilizar o Anti-Aliasing (AA) que é subdividido em dois tipos de filtragem. 
 O primeiro tipo de filtro consiste em aumentar a taxa de amostragem. Os filtros que utilizam este algoritmo são: SSAA, MSAA.
+
 SSAA é uma maneira alternativa de executar as correções dos defeitos causados pelo aliasing de bordas serrilhadas
 com um filtro que traz a suavização das imagens presentes, renderizadas em programas e games das mais variadas plataformas encontradas.
 O MSAA funciona de forma diferente. Ele reduz o poder de processamento necessário em comparação ao SSAA, 
 pois ele detecta as bordas dos polígonos nos objetos 3D e antes da renderização aumenta a amostragem na divisão entre eles. 
+
 O segundo tipo de filtro consiste em borrar (Blur) os serrilhados que também é chamado de AA pós processamento. 
 As técnicas que utilizam este algoritmo são: FXAA e SMAA.
+
 O FXAA consiste em um dos modos de pós-renderização que trabalha com “filtro de borrão”. 
 Primeiro ele detecta o contraste das bordas serrilhadas no frame capturado e depois "borra" nas proximidades da borda, 
-o que resulta numa redução notável dos serrilhados. Por ele não fazer nenhuma diferenciação entre a borda e textura, assim como a borda ele borra a textura.
-O SMAA pode ser considerado a união do FXAA e MSAA, ou seja, ele é a junção entre pré e pós processamento. 
-Para o pré-processamento baseado em borrão é utilizado a técnica FXAA, e para a detecção de serrilhados é usado a técnica MSAA. 
-É considerado a melhor técnica de AA pois reduz muito bem os serrilhados e ao mesmo tempo não borra demasiadamente a imagem
-e o custo benefício é o melhor dentre as técnicas apresentadas anteriormente. Como solução para o problema iremos utilizar o SMAA 
-pois esta combinação entre pré e pós processamento juntamente ao preço que não tão alto faz este algoritmo de anti-aliasing ser 
-considerado o melhor dentre os comentados até agora.  
+o que resulta numa redução notável dos serrilhados. Por ele não fazer nenhuma diferenciação entre a borda e textura, 
+assim como a borda ele borra a textura. O SMAA pode ser considerado a união do FXAA e MSAA, ou seja, ele é a junção
+entre pré e pós processamento. Para o pré-processamento baseado em borrão é utilizado a técnica FXAA, e para 
+a detecção de serrilhados é usado a técnica MSAA. É considerado a melhor técnica de AA pois reduz muito bem os serrilhados
+e ao mesmo tempo não borra demasiadamente a imagem e o custo benefício é o melhor dentre as técnicas apresentadas anteriormente. 
+
+Como solução para o problema iremos utilizar o SMAA pois esta combinação entre pré e pós processamento juntamente 
+ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.  
