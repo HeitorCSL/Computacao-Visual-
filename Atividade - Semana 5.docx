@@ -11,3 +11,10 @@ TIA: 32088531
 
 
 Filtro de suavização (Blur) para resolução de problemas - Aliasing nos jogos eletrônicos
+
+Uma área que se tem como ferramenta essencial da computação gráfica é a de jogos, onde se exigem uma boa parte do hardwares para 
+criação e visualização de imagens, algumas limitações existem quanto à essa ferramenta de processamento gráfico na área de jogos em representar quantidade 
+de cores e pixels de uma imagem processada, uma dessas limitações são os efeitos serrilhados que podem ocorrer nas cenas/imagens, devido a 
+presença de aliasing(que são comuns na maioria dos jogos), o aliasing age como redução na qualidade de uma imagem(má renderização, otimização) amostrada 
+se comparada com a imagem que deveria trazer originalmente, o presente artigo da pesquisa traz uma ánalise do problema de serrilhagem, motivos de sua
+ocorrência e apresentação de soluções que possam solucionar este problema.
