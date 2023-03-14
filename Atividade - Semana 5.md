@@ -1,4 +1,4 @@
-COMPUTACAO VISUAL - Semana 5 - Teoria
+# COMPUTACAO VISUAL - Semana 5 - Teoria 
 
 NOME: Lucca Dias Bartholomei 
 TIA: 31910017
@@ -10,7 +10,7 @@ NOME: Gustavo de Araujo Ramos
 TIA: 32088531
 
 
-Filtro de suavização (Blur) para resolução de problemas - Aliasing nos jogos eletrônicos
+## Filtro de suavização (Blur) para resolução de problemas - Aliasing nos jogos eletrônicos
 
 Uma área que se tem como ferramenta essencial da computação gráfica é a de jogos, onde se exige uma boa parte dos hardwares para 
 criação e visualização de imagens. Algumas limitações existem quanto à essa ferramenta de processamento gráfico na área de jogos em representar quantidade 
