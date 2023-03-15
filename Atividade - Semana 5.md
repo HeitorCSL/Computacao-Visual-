@@ -50,3 +50,5 @@ de FXAA e SMAA, mesmo com resultados inferiores se comparados à técnicas de pr
 vezes se torna suficiente para se alcaçar o objetivo, com a vantegem de ser mais barato, já que essas técnicas demandam um poder de 
 processamento gráfico bem menor.
 
+![](Images/Aliasing.png)
+
