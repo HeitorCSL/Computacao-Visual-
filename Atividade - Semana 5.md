@@ -66,3 +66,10 @@ de FXAA e SMAA, mesmo com resultados inferiores se comparados à técnicas de pr
 vezes se torna suficiente para se alcaçar o objetivo, com a vantegem de ser mais barato, já que essas técnicas demandam um poder de 
 processamento gráfico bem menor.
 
+### Referências
+
+http://www.latec.ufrj.br/revistas/index.php?journal=hipertexto&page=article&op=download&path%5B%5D=656&path%5B%5D=673
+
+https://www.researchgate.net/profile/Veronica_Teichrieb/publication/224198219_Improving_Ray_Tracing_Anti-aliasing_Performance_through_Image_Gradient_Analysis/links/57868e1408aef321de2c6d9b.pdf 
+
+https://sol.sbc.org.br/index.php/eripi/article/view/5179/5085
