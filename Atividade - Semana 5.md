@@ -41,6 +41,14 @@ e ao mesmo tempo não borra demasiadamente a imagem e o custo benefício é o me
 Como solução para o problema iremos utilizar o SMAA pois esta combinação entre pré e pós processamento juntamente 
 ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.
 
+
+
+### Aliasing
+![](Images/Aliasing.png)
+
+### Anti-Aliasing
+![](Images/Anti-aliasing.png)
+
 Como se pode perceber, o uso do filtro de suavização trás uma solução aceitável para o problema, uma vez que realiza a adaptação
 da imagem para algo mais similar com a realidade, criando um efeito para o olho humano baseado na impressão da visualização das
 linhas e bordas como algo "perfeito".
@@ -49,10 +57,4 @@ Claro que não é possível resolver por completo o problema do aliasing, pelas 
 de FXAA e SMAA, mesmo com resultados inferiores se comparados à técnicas de pré-processamento, conseguimos obter uma solução que muitas 
 vezes se torna suficiente para se alcaçar o objetivo, com a vantegem de ser mais barato, já que essas técnicas demandam um poder de 
 processamento gráfico bem menor.
-
-### Aliasing
-![](Images/Aliasing.png)
-
-### Anti-Aliasing
-![](Images/Anti-aliasing.png)
 
