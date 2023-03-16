@@ -38,6 +38,10 @@ entre pré e pós processamento. Para o pré-processamento baseado em borrão é
 a detecção de serrilhados é usado a técnica MSAA. É considerado a melhor técnica de AA pois reduz muito bem os serrilhados
 e ao mesmo tempo não borra demasiadamente a imagem e o custo benefício é o melhor dentre as técnicas apresentadas anteriormente. 
 
+![](Images/Imagem1.png)
+
+Figura 1: A esquerda o frame sem Anti-Aliasing, ao meio o frame com FXAA, a direita o frame com SMAA.
+
 Como solução para o problema iremos utilizar o SMAA pois esta combinação entre pré e pós processamento juntamente 
 ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.
 
