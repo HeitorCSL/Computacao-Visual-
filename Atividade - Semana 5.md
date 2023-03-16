@@ -57,6 +57,10 @@ Como se pode perceber, o uso do filtro de suavização trás uma solução aceit
 da imagem para algo mais similar com a realidade, criando um efeito para o olho humano baseado na impressão da visualização das
 linhas e bordas como algo "perfeito".
 
+Em áreas como a de jogos digitais, técnicas como as citadas acima agregam muito tanto para o desenvolvimento da própria área de computação visual,
+quanto para os usuários, proporcionando uma experiência cada vez mais imersiva e realista, que além de contribuir para o entretenimento em geral,
+abre diversas portas para que soluções mais eficientes sejam criadas.
+
 Claro que não é possível resolver por completo o problema do aliasing, pelas limitações físicas impostas, porém, com o uso das técnicas 
 de FXAA e SMAA, mesmo com resultados inferiores se comparados à técnicas de pré-processamento, conseguimos obter uma solução que muitas 
 vezes se torna suficiente para se alcaçar o objetivo, com a vantegem de ser mais barato, já que essas técnicas demandam um poder de 
