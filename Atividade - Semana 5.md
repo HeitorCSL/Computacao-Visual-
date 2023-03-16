@@ -42,8 +42,8 @@ e ao mesmo tempo não borra demasiadamente a imagem e o custo benefício é o me
 
 Figura 1: A esquerda o frame sem Anti-Aliasing, ao meio o frame com FXAA, a direita o frame com SMAA.
 
-Como solução para o problema iremos utilizar o SMAA pois esta combinação entre pré e pós processamento juntamente 
-ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.
+Como solução para o problema, tendo em vista o custo benefício, uma das mais indicadas é a utilização doo SMAA, pois esta combinação entre pré e pós
+processamento juntamente ao preço que não tão alto faz este algoritmo de anti-aliasing ser considerado o melhor dentre os comentados até agora.
 
 
 
