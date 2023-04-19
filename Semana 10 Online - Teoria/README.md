@@ -3,7 +3,7 @@
 ### Pesquisa sobre a utilização dos operadores de gradiente Roberts, Prewitt e Sobel para detectar bordas em uma imagem, usando a linguagem Python.
 
 Para a aplicação dos operadores, foi empregada a função de Convolução, para a extração das informações das bordas e sepração do que é borda e do que não é borda. A partir disso, a filtro será aplicado na imagem de entrada de forma horizontal e vertical, com base em cada operador, e então é feito o calculo de magnitude na imagem processada.
-Como saídas temos a imagem original, sua versão após o processamento com o filtro da horizontal, sua versão após o processamento com o filtro da vertical e a imagem após a aplicação do cálculo da magnitude.
+Como saídas temos a imagem original, sua versão após o processamento com o filtro da horizontal, sua versão após o processamento com o filtro da vertical e a imagem após a aplicação da funçaõ de magnitude.
 
 --------------------------------------------
 No arquivo notebook acima, há a exemplificação da aplicação dos operadores, com os respectivos códigos.
