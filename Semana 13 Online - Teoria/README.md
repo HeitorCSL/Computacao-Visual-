@@ -20,3 +20,7 @@ O nome Cel vem do material outrora utilizado para desenho de animações, Celulo
 De mais a mais, entende-se que as diferenças entre Toon shading e Gouraud ou Phong, está na maneira como o decaimento da luz sob um objeto é tratado, aonde Gouraud calcula a intensidade da luz ou sombreamento por interpolar as cores, eliminando descontinuidades bruscas de intensidade (enquanto não elimina qualquer mudança), e trabalhando com a superfície, no vertex shader, Phong trabalha interpolando o vetor normal, pela superfície (normal da superfície), pegando os valores do vetor normal de um determinado ponto, e calculando a intensidade pela interpolação deste e seus consequentes, assim trabalhando no fragment shader. 
 
 Dessa maneira, os dois funcionam de forma similar, interpolando e definindo neste cálculo um gradiente na intensidade e sombreamento. O Toon shading porém, trabalha definindo limiares e blocos restritos de cores/intensidades, assim não é necessário um cálculo complexo para definição dos valores e implantação da técnica, apenas necessitanto, como antes discutido, de valores máximo mínimo (função step) para componentes difusa e especular (além da deliniação da borda/silhueta).
+
+- Comparação Gouraud/Phong shading:
+
+![comparacao_flat_gouraud_phong](https://user-images.githubusercontent.com/79479170/236689473-69b81daf-ee9d-4e85-aee9-8d3db8902978.png)
