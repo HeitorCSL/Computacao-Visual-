@@ -31,4 +31,5 @@ Dessa maneira, os dois funcionam de forma similar, interpolando e definindo nest
 
 ### Cel Shading
 
+![cel_shading](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/19f2242b-8442-4846-8b8f-6ab9d9788cd0)
 
