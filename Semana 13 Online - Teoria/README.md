@@ -33,3 +33,4 @@ Dessa maneira, os dois funcionam de forma similar, interpolando e definindo nest
 
 ![cel_shading](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/19f2242b-8442-4846-8b8f-6ab9d9788cd0)
 
+![cel_shading_2](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/59952985-b1d6-4182-9a62-3736a3700034)
