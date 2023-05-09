@@ -24,3 +24,11 @@ Dessa maneira, os dois funcionam de forma similar, interpolando e definindo nest
 - Comparação Gouraud/Phong shading:
 
 ![comparacao_flat_gouraud_phong](https://user-images.githubusercontent.com/79479170/236689473-69b81daf-ee9d-4e85-aee9-8d3db8902978.png)
+
+---------------------------------------------
+
+## Exemplos
+
+### Cel Shading
+
+
