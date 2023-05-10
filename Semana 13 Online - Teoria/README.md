@@ -40,4 +40,8 @@ Img 2:
 
 ### Toon Shading
 
+Img 1:
+![toon_shading](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/8d1821e7-3c67-4e71-8ceb-5f2dc3891b6a)
 
+Img 2:
+![toon_shading_2](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/ad91d998-2405-4cf5-b32e-960d8a295fad)
