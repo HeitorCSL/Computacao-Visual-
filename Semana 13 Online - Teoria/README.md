@@ -37,3 +37,7 @@ Img 1:
 
 Img 2:
 ![cel_shading_2](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/59952985-b1d6-4182-9a62-3736a3700034)
+
+### Toon Shading
+
+
