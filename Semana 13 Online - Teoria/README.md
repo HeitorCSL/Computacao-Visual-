@@ -45,3 +45,25 @@ Img 1:
 
 Img 2:
 ![toon_shading_2](https://github.com/HeitorCSL/Computacao-Visual-/assets/79479170/ad91d998-2405-4cf5-b32e-960d8a295fad)
+
+--------------------------------------------
+
+## Referências
+
+https://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter09.html
+
+https://www.inf.pucrs.br/~smusse/FCG/PDF_2017_1/Iluminacao.pdf
+
+https://www.haroldserrano.com/blog/what-is-the-difference-between-gouraud-and-phong-shading
+
+https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html#:~:text=Cel%20shading%20is%20a%20computer,falls%20across%20a%203D%20model.
+
+https://pt.wikipedia.org/wiki/Cel_shading
+
+https://tecnoblog.net/responde/o-que-e-cel-shading/
+
+https://www.cin.ufpe.br/~dfp/files/PG/cel-shading.pdf
+
+https://docs.unity3d.com/Packages/com.unity.toonshader@0.6/manual/index.html
+
+https://viscircle.de/toon-shading/?lang=en&gclid=CjwKCAjwge2iBhBBEiwAfXDBR3PpoEyvvQaIZZTAj8oYlY0rkWaQAGYBP_1eV9QAx7XmbedAsPnzkhoCCzEQAvD_BwE
